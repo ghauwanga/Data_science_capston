@@ -1,2 +1,13 @@
-# Data_science_capston
-This a collection of IBM data science capston coursera projects.
+# Data Science capstone
+This is the final course in the IBM Data Science Professional Certificate as well as the Applied
+Data Science with Python Specialization. This capstone project course gave me the chance 
+to practice the work that data scientists do in real life when working with datasets.  
+
+In this project I acted in the role of a Data Scientist working for a startup intending to 
+compete with SpaceX, and in the process follow the Data Science methodology involving data 
+collection, data wrangling, exploratory data analysis, data visualization, model development, 
+model evaluation, and reporting your results to stakeholders.  
+
+I was able to predicting if the first stage of the SpaceX Falcon 9 rocket will land 
+successfully. With the help of your Data Science findings and models, the competing startup you 
+have been hired by can make more informed bids against SpaceX for a rocket launch.
